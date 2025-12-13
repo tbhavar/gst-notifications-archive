@@ -18,7 +18,7 @@ on:
       commit_message:
         description: 'Optional: Custom commit message'
         required: false
-        default: 'Auto-downloaded and renamed GST Notification'
+        default: 'Auto-downloaded and renamed Notification'
 
 jobs:
   download_and_commit:

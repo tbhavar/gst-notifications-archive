@@ -1,4 +1,4 @@
-name: 📥 GST PDF Automator
+name: 📥 PDF Upload Automator
 
 on:
   workflow_dispatch:
